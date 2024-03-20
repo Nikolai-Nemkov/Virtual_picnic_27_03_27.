@@ -23,5 +23,6 @@ https://github.com/Nikolai-Nemkov/Virtual_picnic_27_03_27./blob/main/WordCounter
 
 ### Нахождение самого длинного слова
 
+https://github.com/Nikolai-Nemkov/Virtual_picnic_27_03_27./blob/main/LongestWordFinder.java
 
 ### Частота слов
