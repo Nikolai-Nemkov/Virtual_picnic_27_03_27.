@@ -17,11 +17,11 @@ public class WordCounter {
                 wordCount++;
             }
 
-            System.out.println("Total words in the file: " + wordCount);
+            System.out.println("Количество слов в файле: " + wordCount);
 
         } catch (FileNotFoundException e) {
 
-            System.out.println("File not found.");
+            System.out.println("файл не найден.");
 
         }
     }
