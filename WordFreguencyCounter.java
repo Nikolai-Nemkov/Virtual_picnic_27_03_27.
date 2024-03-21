@@ -22,7 +22,7 @@ public class WordFreguencyCounter {
 
         } catch (FileNotFoundException e) {
 
-            System.err.println("File not found.");
+            System.err.println("файл не найден.");
         }
     }
 }
