@@ -20,9 +20,9 @@ public class LongestWordFinder {
 
             }
 
-            System.out.println("Longest word in file: " + longestWord);
+            System.out.println("Самое длинное слово: " + longestWord);
         } catch (FileNotFoundException e) {
-            System.err.println("File not found.");
+            System.err.println("файл не найден.");
         }
     }
 }
